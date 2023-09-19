@@ -15,3 +15,6 @@ Hi, I'm Gopal Khanal, and I am a PhD student at IRES, UBC. I study ecological sy
 -data figures
 
 #this is a test of the new branch application
+
+## Memo
+Hi Nick, let's work on this worksheet again.
